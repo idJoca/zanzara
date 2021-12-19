@@ -28,6 +28,7 @@ use Zanzara\Telegram\Type\Response\TelegramException;
 use Zanzara\Telegram\Type\Update;
 use Zanzara\Telegram\Type\User;
 use Zanzara\Telegram\Type\Webhook\WebhookInfo;
+use Zanzara\Telegram\Type\ChatInviteLink;
 use Zanzara\ZanzaraLogger;
 use Zanzara\ZanzaraMapper;
 use function React\Promise\all;
